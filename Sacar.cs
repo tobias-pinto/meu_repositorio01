@@ -1,0 +1,1 @@
+tenho meus metodos e propriedades
